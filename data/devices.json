@@ -1,0 +1,5 @@
+[
+  {"code": "guide-bot", "capabilities": ["navigation", "explanation", "recording"], "privacy_level": "visitor-consent", "requires_staff_handover": false},
+  {"code": "assist-frame", "capabilities": ["uphill-assist", "downhill-buffer"], "privacy_level": "minimal", "requires_staff_handover": true},
+  {"code": "photo-kiosk", "capabilities": ["recording", "print"], "privacy_level": "visitor-consent", "requires_staff_handover": false}
+]
